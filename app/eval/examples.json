@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How many annual leave days does a full-time employee receive each year?",
+    "ground_truth": "Full-time employees receive 20 days of annual leave per calendar year."
+  },
+  {
+    "question": "What is the process for reporting a security incident?",
+    "ground_truth": "Employees must report suspected security incidents to security@example.com within one business day and include the affected system and observed impact."
+  },
+  {
+    "question": "How long are standard expense reports submitted after travel?",
+    "ground_truth": "Employees should submit expense reports within 10 business days after completing travel."
+  }
+]
